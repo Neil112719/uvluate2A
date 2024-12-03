@@ -1,0 +1,23 @@
+.show-admin-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f8f9fa;
+    padding: 20px;
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
+  .show-admin-card h3 {
+    margin-bottom: 20px;
+  }
+  
+  .show-admin-card ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .show-admin-card li {
+    padding: 5px 0;
+    border-bottom: 1px solid #ddd;
+  }
+  

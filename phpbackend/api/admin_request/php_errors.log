@@ -1,0 +1,4 @@
+[03-Dec-2024 07:31:39 UTC] PHP Warning:  Undefined variable $db_host in D:\Users\HP\Desktop\uvluate2\phpbackend\api\admin_request\get-admins.php on line 15
+[03-Dec-2024 07:31:39 UTC] PHP Warning:  Undefined variable $db_user in D:\Users\HP\Desktop\uvluate2\phpbackend\api\admin_request\get-admins.php on line 15
+[03-Dec-2024 07:31:39 UTC] PHP Warning:  Undefined variable $db_password in D:\Users\HP\Desktop\uvluate2\phpbackend\api\admin_request\get-admins.php on line 15
+[03-Dec-2024 07:31:39 UTC] PHP Warning:  Undefined variable $db_name in D:\Users\HP\Desktop\uvluate2\phpbackend\api\admin_request\get-admins.php on line 15

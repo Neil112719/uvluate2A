@@ -1,0 +1,96 @@
+.admin-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f8f9fa;
+    padding: 20px;
+    max-width: 800px;
+    margin: 20px auto;
+  }
+  
+  .admin-card h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .tabs {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .tab {
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #e9ecef;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .tab:hover {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .tab.active {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .show-admin-card,
+  .create-admin-card {
+    margin-top: 20px;
+  }
+  
+  .show-admin-card h3,
+  .create-admin-card h3 {
+    text-align: center;
+  }
+  
+  .show-admin-card ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .show-admin-card li {
+    padding: 5px 0;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .create-admin-card form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .create-admin-card form div {
+    margin-bottom: 10px;
+  }
+  
+  .create-admin-card label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: block;
+  }
+  
+  .create-admin-card input {
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 100%;
+  }
+  
+  .create-admin-card button {
+    padding: 10px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  .create-admin-card button:hover {
+    background-color: #0056b3;
+  }
+  

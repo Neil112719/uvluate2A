@@ -1,0 +1,432 @@
+[03-Dec-2024 03:31:04 UTC] Incoming Headers: Array
+(
+    [Host] => localhost:8000
+    [Connection] => keep-alive
+    [Content-Length] => 23
+    [sec-ch-ua-platform] => "Windows"
+    [Authorization] => Bearer 1dad2ecc171f7803353e91188d6d8d09c5d1ce454ee9f82ff3ef894f4903d83f
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+    [Accept] => application/json, text/plain, */*
+    [sec-ch-ua] => "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [Content-Type] => application/json
+    [sec-ch-ua-mobile] => ?0
+    [Origin] => http://localhost:3000
+    [Sec-Fetch-Site] => same-site
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost:3000/
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => welcomebanner_status=dismiss; cookieconsent_status=dismiss; language=en; code-fixes-component-format=LineByLine; continueCode=rlHxhWtVI2C9iOSltzc1T4C8F9fmH7hYteImTrsreuDDhZ1tKJI3BTKQsLBFoZu48hv5tmVIQ5srVFQPSLztZNcvjfN6SbpubetjjI5pCjKsBWiVyfxBUDmuKlhprclRIZwCW7; PHPSESSID=gsnjpoide0c0o603bgemork897
+)
+
+[03-Dec-2024 03:31:04 UTC] Session Token: 1dad2ecc171f7803353e91188d6d8d09c5d1ce454ee9f82ff3ef894f4903d83f
+[03-Dec-2024 03:31:04 UTC] Required User Type: 1
+[03-Dec-2024 03:35:29 UTC] Incoming Headers: Array
+(
+    [Host] => localhost:8000
+    [Connection] => keep-alive
+    [Content-Length] => 23
+    [sec-ch-ua-platform] => "Windows"
+    [Authorization] => Bearer 1dad2ecc171f7803353e91188d6d8d09c5d1ce454ee9f82ff3ef894f4903d83f
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+    [Accept] => application/json, text/plain, */*
+    [sec-ch-ua] => "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [Content-Type] => application/json
+    [sec-ch-ua-mobile] => ?0
+    [Origin] => http://localhost:3000
+    [Sec-Fetch-Site] => same-site
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost:3000/
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => welcomebanner_status=dismiss; cookieconsent_status=dismiss; language=en; code-fixes-component-format=LineByLine; continueCode=rlHxhWtVI2C9iOSltzc1T4C8F9fmH7hYteImTrsreuDDhZ1tKJI3BTKQsLBFoZu48hv5tmVIQ5srVFQPSLztZNcvjfN6SbpubetjjI5pCjKsBWiVyfxBUDmuKlhprclRIZwCW7; PHPSESSID=gsnjpoide0c0o603bgemork897
+)
+
+[03-Dec-2024 03:35:29 UTC] Session Token: 1dad2ecc171f7803353e91188d6d8d09c5d1ce454ee9f82ff3ef894f4903d83f
+[03-Dec-2024 03:35:29 UTC] Required User Type: 1
+[03-Dec-2024 03:54:16 UTC] Incoming Headers: Array
+(
+    [Host] => localhost:8000
+    [Connection] => keep-alive
+    [Content-Length] => 23
+    [sec-ch-ua-platform] => "Windows"
+    [Authorization] => Bearer 9d0cf67b33a9d7af712c38530e4b6e9774c9a71b67ed27588aebc1e1c110850a
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+    [Accept] => application/json, text/plain, */*
+    [sec-ch-ua] => "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [Content-Type] => application/json
+    [sec-ch-ua-mobile] => ?0
+    [Origin] => http://localhost:3000
+    [Sec-Fetch-Site] => same-site
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost:3000/
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => welcomebanner_status=dismiss; cookieconsent_status=dismiss; language=en; code-fixes-component-format=LineByLine; continueCode=rlHxhWtVI2C9iOSltzc1T4C8F9fmH7hYteImTrsreuDDhZ1tKJI3BTKQsLBFoZu48hv5tmVIQ5srVFQPSLztZNcvjfN6SbpubetjjI5pCjKsBWiVyfxBUDmuKlhprclRIZwCW7; PHPSESSID=gsnjpoide0c0o603bgemork897
+)
+
+[03-Dec-2024 03:54:16 UTC] Session Token: 9d0cf67b33a9d7af712c38530e4b6e9774c9a71b67ed27588aebc1e1c110850a
+[03-Dec-2024 03:54:16 UTC] Required User Type: 1
+[03-Dec-2024 03:55:03 UTC] Incoming Headers: Array
+(
+    [Host] => localhost:8000
+    [Connection] => keep-alive
+    [Content-Length] => 23
+    [sec-ch-ua-platform] => "Windows"
+    [Authorization] => Bearer d440d29ed2fb59dc6140383d3f60f8c95376d39f002b4c098d546d2c83077630
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+    [Accept] => application/json, text/plain, */*
+    [sec-ch-ua] => "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [Content-Type] => application/json
+    [sec-ch-ua-mobile] => ?0
+    [Origin] => http://localhost:3000
+    [Sec-Fetch-Site] => same-site
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost:3000/
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => welcomebanner_status=dismiss; cookieconsent_status=dismiss; language=en; code-fixes-component-format=LineByLine; continueCode=rlHxhWtVI2C9iOSltzc1T4C8F9fmH7hYteImTrsreuDDhZ1tKJI3BTKQsLBFoZu48hv5tmVIQ5srVFQPSLztZNcvjfN6SbpubetjjI5pCjKsBWiVyfxBUDmuKlhprclRIZwCW7; PHPSESSID=gsnjpoide0c0o603bgemork897
+)
+
+[03-Dec-2024 03:55:03 UTC] Session Token: d440d29ed2fb59dc6140383d3f60f8c95376d39f002b4c098d546d2c83077630
+[03-Dec-2024 03:55:03 UTC] Required User Type: 1
+[03-Dec-2024 03:56:56 UTC] Incoming Headers: Array
+(
+    [Host] => localhost:8000
+    [Connection] => keep-alive
+    [Content-Length] => 23
+    [sec-ch-ua-platform] => "Windows"
+    [Authorization] => Bearer 101c4aa85cd92f05540b72c6738a0b6f9c75f2a2b358a90a11664899e9a3ba4b
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+    [Accept] => application/json, text/plain, */*
+    [sec-ch-ua] => "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [Content-Type] => application/json
+    [sec-ch-ua-mobile] => ?0
+    [Origin] => http://localhost:3000
+    [Sec-Fetch-Site] => same-site
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost:3000/
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => welcomebanner_status=dismiss; cookieconsent_status=dismiss; language=en; code-fixes-component-format=LineByLine; continueCode=rlHxhWtVI2C9iOSltzc1T4C8F9fmH7hYteImTrsreuDDhZ1tKJI3BTKQsLBFoZu48hv5tmVIQ5srVFQPSLztZNcvjfN6SbpubetjjI5pCjKsBWiVyfxBUDmuKlhprclRIZwCW7; PHPSESSID=gsnjpoide0c0o603bgemork897
+)
+
+[03-Dec-2024 03:56:56 UTC] Session Token: 101c4aa85cd92f05540b72c6738a0b6f9c75f2a2b358a90a11664899e9a3ba4b
+[03-Dec-2024 03:56:56 UTC] Required User Type: 1
+[03-Dec-2024 04:00:52 UTC] Incoming Headers: Array
+(
+    [Host] => localhost:8000
+    [Connection] => keep-alive
+    [Content-Length] => 23
+    [sec-ch-ua-platform] => "Windows"
+    [Authorization] => Bearer a7cb7aa8db9d008886e2448d5145ede167a10d7d470dcd770f94500b06fcacf6
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+    [Accept] => application/json, text/plain, */*
+    [sec-ch-ua] => "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [Content-Type] => application/json
+    [sec-ch-ua-mobile] => ?0
+    [Origin] => http://localhost:3000
+    [Sec-Fetch-Site] => same-site
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost:3000/
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => welcomebanner_status=dismiss; cookieconsent_status=dismiss; language=en; code-fixes-component-format=LineByLine; continueCode=rlHxhWtVI2C9iOSltzc1T4C8F9fmH7hYteImTrsreuDDhZ1tKJI3BTKQsLBFoZu48hv5tmVIQ5srVFQPSLztZNcvjfN6SbpubetjjI5pCjKsBWiVyfxBUDmuKlhprclRIZwCW7; PHPSESSID=gsnjpoide0c0o603bgemork897
+)
+
+[03-Dec-2024 04:00:52 UTC] Session Token: a7cb7aa8db9d008886e2448d5145ede167a10d7d470dcd770f94500b06fcacf6
+[03-Dec-2024 04:00:52 UTC] Required User Type: 1
+[03-Dec-2024 04:01:34 UTC] Incoming Headers: Array
+(
+    [Host] => localhost:8000
+    [Connection] => keep-alive
+    [Content-Length] => 23
+    [sec-ch-ua-platform] => "Windows"
+    [Authorization] => Bearer 72d5d83efaa8f3648aac385e60eea0aa84c0013f8225acad68e7a94697ec5646
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+    [Accept] => application/json, text/plain, */*
+    [sec-ch-ua] => "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [Content-Type] => application/json
+    [sec-ch-ua-mobile] => ?0
+    [Origin] => http://localhost:3000
+    [Sec-Fetch-Site] => same-site
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost:3000/
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => welcomebanner_status=dismiss; cookieconsent_status=dismiss; language=en; code-fixes-component-format=LineByLine; continueCode=rlHxhWtVI2C9iOSltzc1T4C8F9fmH7hYteImTrsreuDDhZ1tKJI3BTKQsLBFoZu48hv5tmVIQ5srVFQPSLztZNcvjfN6SbpubetjjI5pCjKsBWiVyfxBUDmuKlhprclRIZwCW7; PHPSESSID=gsnjpoide0c0o603bgemork897
+)
+
+[03-Dec-2024 04:01:34 UTC] Session Token: 72d5d83efaa8f3648aac385e60eea0aa84c0013f8225acad68e7a94697ec5646
+[03-Dec-2024 04:01:34 UTC] Required User Type: 1
+[03-Dec-2024 04:05:55 UTC] Incoming Headers: Array
+(
+    [Host] => localhost:8000
+    [Connection] => keep-alive
+    [Content-Length] => 23
+    [sec-ch-ua-platform] => "Windows"
+    [Authorization] => Bearer 64279bb94aace28796054bcf0dfd2d3dd5b8ccfca336d7ff15efbb110141cfe2
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+    [Accept] => application/json, text/plain, */*
+    [sec-ch-ua] => "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [Content-Type] => application/json
+    [sec-ch-ua-mobile] => ?0
+    [Origin] => http://localhost:3000
+    [Sec-Fetch-Site] => same-site
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost:3000/
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => welcomebanner_status=dismiss; cookieconsent_status=dismiss; language=en; code-fixes-component-format=LineByLine; continueCode=rlHxhWtVI2C9iOSltzc1T4C8F9fmH7hYteImTrsreuDDhZ1tKJI3BTKQsLBFoZu48hv5tmVIQ5srVFQPSLztZNcvjfN6SbpubetjjI5pCjKsBWiVyfxBUDmuKlhprclRIZwCW7; PHPSESSID=gsnjpoide0c0o603bgemork897
+)
+
+[03-Dec-2024 04:05:55 UTC] Session Token: 64279bb94aace28796054bcf0dfd2d3dd5b8ccfca336d7ff15efbb110141cfe2
+[03-Dec-2024 04:05:55 UTC] Required User Type: 1
+[03-Dec-2024 04:25:42 UTC] Incoming Headers: Array
+(
+    [Host] => localhost:8000
+    [Connection] => keep-alive
+    [Content-Length] => 23
+    [sec-ch-ua-platform] => "Windows"
+    [Authorization] => Bearer 64279bb94aace28796054bcf0dfd2d3dd5b8ccfca336d7ff15efbb110141cfe2
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+    [Accept] => application/json, text/plain, */*
+    [sec-ch-ua] => "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [Content-Type] => application/json
+    [sec-ch-ua-mobile] => ?0
+    [Origin] => http://localhost:3000
+    [Sec-Fetch-Site] => same-site
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost:3000/
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => welcomebanner_status=dismiss; cookieconsent_status=dismiss; language=en; code-fixes-component-format=LineByLine; continueCode=rlHxhWtVI2C9iOSltzc1T4C8F9fmH7hYteImTrsreuDDhZ1tKJI3BTKQsLBFoZu48hv5tmVIQ5srVFQPSLztZNcvjfN6SbpubetjjI5pCjKsBWiVyfxBUDmuKlhprclRIZwCW7; PHPSESSID=gsnjpoide0c0o603bgemork897
+)
+
+[03-Dec-2024 04:25:42 UTC] Session Token: 64279bb94aace28796054bcf0dfd2d3dd5b8ccfca336d7ff15efbb110141cfe2
+[03-Dec-2024 04:25:42 UTC] Required User Type: 1
+[03-Dec-2024 04:26:50 UTC] Incoming Headers: Array
+(
+    [Host] => localhost:8000
+    [Connection] => keep-alive
+    [Content-Length] => 23
+    [sec-ch-ua-platform] => "Windows"
+    [Authorization] => Bearer 64279bb94aace28796054bcf0dfd2d3dd5b8ccfca336d7ff15efbb110141cfe2
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+    [Accept] => application/json, text/plain, */*
+    [sec-ch-ua] => "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [Content-Type] => application/json
+    [sec-ch-ua-mobile] => ?0
+    [Origin] => http://localhost:3000
+    [Sec-Fetch-Site] => same-site
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost:3000/
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => welcomebanner_status=dismiss; cookieconsent_status=dismiss; language=en; code-fixes-component-format=LineByLine; continueCode=rlHxhWtVI2C9iOSltzc1T4C8F9fmH7hYteImTrsreuDDhZ1tKJI3BTKQsLBFoZu48hv5tmVIQ5srVFQPSLztZNcvjfN6SbpubetjjI5pCjKsBWiVyfxBUDmuKlhprclRIZwCW7; PHPSESSID=gsnjpoide0c0o603bgemork897
+)
+
+[03-Dec-2024 04:26:50 UTC] Session Token: 64279bb94aace28796054bcf0dfd2d3dd5b8ccfca336d7ff15efbb110141cfe2
+[03-Dec-2024 04:26:50 UTC] Required User Type: 1
+[03-Dec-2024 04:32:51 UTC] Incoming Headers: Array
+(
+    [Host] => localhost:8000
+    [Connection] => keep-alive
+    [Content-Length] => 23
+    [sec-ch-ua-platform] => "Windows"
+    [Authorization] => Bearer 64279bb94aace28796054bcf0dfd2d3dd5b8ccfca336d7ff15efbb110141cfe2
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+    [Accept] => application/json, text/plain, */*
+    [sec-ch-ua] => "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [Content-Type] => application/json
+    [sec-ch-ua-mobile] => ?0
+    [Origin] => http://localhost:3000
+    [Sec-Fetch-Site] => same-site
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost:3000/
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => welcomebanner_status=dismiss; cookieconsent_status=dismiss; language=en; code-fixes-component-format=LineByLine; continueCode=rlHxhWtVI2C9iOSltzc1T4C8F9fmH7hYteImTrsreuDDhZ1tKJI3BTKQsLBFoZu48hv5tmVIQ5srVFQPSLztZNcvjfN6SbpubetjjI5pCjKsBWiVyfxBUDmuKlhprclRIZwCW7; PHPSESSID=gsnjpoide0c0o603bgemork897
+)
+
+[03-Dec-2024 04:32:51 UTC] Session Token: 64279bb94aace28796054bcf0dfd2d3dd5b8ccfca336d7ff15efbb110141cfe2
+[03-Dec-2024 04:32:51 UTC] Required User Type: 1
+[03-Dec-2024 04:34:57 UTC] Incoming Headers: Array
+(
+    [Host] => localhost:8000
+    [Connection] => keep-alive
+    [Content-Length] => 23
+    [sec-ch-ua-platform] => "Windows"
+    [Authorization] => Bearer 64279bb94aace28796054bcf0dfd2d3dd5b8ccfca336d7ff15efbb110141cfe2
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+    [Accept] => application/json, text/plain, */*
+    [sec-ch-ua] => "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [Content-Type] => application/json
+    [sec-ch-ua-mobile] => ?0
+    [Origin] => http://localhost:3000
+    [Sec-Fetch-Site] => same-site
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost:3000/
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => welcomebanner_status=dismiss; cookieconsent_status=dismiss; language=en; code-fixes-component-format=LineByLine; continueCode=rlHxhWtVI2C9iOSltzc1T4C8F9fmH7hYteImTrsreuDDhZ1tKJI3BTKQsLBFoZu48hv5tmVIQ5srVFQPSLztZNcvjfN6SbpubetjjI5pCjKsBWiVyfxBUDmuKlhprclRIZwCW7; PHPSESSID=gsnjpoide0c0o603bgemork897
+)
+
+[03-Dec-2024 04:34:57 UTC] Session Token: 64279bb94aace28796054bcf0dfd2d3dd5b8ccfca336d7ff15efbb110141cfe2
+[03-Dec-2024 04:34:57 UTC] Required User Type: 1
+[03-Dec-2024 04:35:00 UTC] Incoming Headers: Array
+(
+    [Host] => localhost:8000
+    [Connection] => keep-alive
+    [Content-Length] => 23
+    [sec-ch-ua-platform] => "Windows"
+    [Authorization] => Bearer 64279bb94aace28796054bcf0dfd2d3dd5b8ccfca336d7ff15efbb110141cfe2
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+    [Accept] => application/json, text/plain, */*
+    [sec-ch-ua] => "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [Content-Type] => application/json
+    [sec-ch-ua-mobile] => ?0
+    [Origin] => http://localhost:3000
+    [Sec-Fetch-Site] => same-site
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost:3000/
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => welcomebanner_status=dismiss; cookieconsent_status=dismiss; language=en; code-fixes-component-format=LineByLine; continueCode=rlHxhWtVI2C9iOSltzc1T4C8F9fmH7hYteImTrsreuDDhZ1tKJI3BTKQsLBFoZu48hv5tmVIQ5srVFQPSLztZNcvjfN6SbpubetjjI5pCjKsBWiVyfxBUDmuKlhprclRIZwCW7; PHPSESSID=gsnjpoide0c0o603bgemork897
+)
+
+[03-Dec-2024 04:35:00 UTC] Session Token: 64279bb94aace28796054bcf0dfd2d3dd5b8ccfca336d7ff15efbb110141cfe2
+[03-Dec-2024 04:35:00 UTC] Required User Type: 1
+[03-Dec-2024 05:06:13 UTC] Incoming Headers: Array
+(
+    [Host] => localhost:8000
+    [Connection] => keep-alive
+    [Content-Length] => 23
+    [sec-ch-ua-platform] => "Windows"
+    [Authorization] => Bearer 64279bb94aace28796054bcf0dfd2d3dd5b8ccfca336d7ff15efbb110141cfe2
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+    [Accept] => application/json, text/plain, */*
+    [sec-ch-ua] => "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [Content-Type] => application/json
+    [sec-ch-ua-mobile] => ?0
+    [Origin] => http://localhost:3000
+    [Sec-Fetch-Site] => same-site
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost:3000/
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => welcomebanner_status=dismiss; cookieconsent_status=dismiss; language=en; code-fixes-component-format=LineByLine; continueCode=rlHxhWtVI2C9iOSltzc1T4C8F9fmH7hYteImTrsreuDDhZ1tKJI3BTKQsLBFoZu48hv5tmVIQ5srVFQPSLztZNcvjfN6SbpubetjjI5pCjKsBWiVyfxBUDmuKlhprclRIZwCW7; PHPSESSID=gsnjpoide0c0o603bgemork897
+)
+
+[03-Dec-2024 05:06:13 UTC] Session Token: 64279bb94aace28796054bcf0dfd2d3dd5b8ccfca336d7ff15efbb110141cfe2
+[03-Dec-2024 05:06:13 UTC] Required User Type: 1
+[03-Dec-2024 05:09:06 UTC] Incoming Headers: Array
+(
+    [Host] => localhost:8000
+    [Connection] => keep-alive
+    [Content-Length] => 23
+    [sec-ch-ua-platform] => "Windows"
+    [Authorization] => Bearer 64279bb94aace28796054bcf0dfd2d3dd5b8ccfca336d7ff15efbb110141cfe2
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+    [Accept] => application/json, text/plain, */*
+    [sec-ch-ua] => "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [Content-Type] => application/json
+    [sec-ch-ua-mobile] => ?0
+    [Origin] => http://localhost:3000
+    [Sec-Fetch-Site] => same-site
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost:3000/
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => welcomebanner_status=dismiss; cookieconsent_status=dismiss; language=en; code-fixes-component-format=LineByLine; continueCode=rlHxhWtVI2C9iOSltzc1T4C8F9fmH7hYteImTrsreuDDhZ1tKJI3BTKQsLBFoZu48hv5tmVIQ5srVFQPSLztZNcvjfN6SbpubetjjI5pCjKsBWiVyfxBUDmuKlhprclRIZwCW7; PHPSESSID=gsnjpoide0c0o603bgemork897
+)
+
+[03-Dec-2024 05:09:06 UTC] Session Token: 64279bb94aace28796054bcf0dfd2d3dd5b8ccfca336d7ff15efbb110141cfe2
+[03-Dec-2024 05:09:06 UTC] Required User Type: 1
+[03-Dec-2024 05:19:37 UTC] Incoming Headers: Array
+(
+    [Host] => localhost:8000
+    [Connection] => keep-alive
+    [Content-Length] => 23
+    [sec-ch-ua-platform] => "Windows"
+    [Authorization] => Bearer 64279bb94aace28796054bcf0dfd2d3dd5b8ccfca336d7ff15efbb110141cfe2
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+    [Accept] => application/json, text/plain, */*
+    [sec-ch-ua] => "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [Content-Type] => application/json
+    [sec-ch-ua-mobile] => ?0
+    [Origin] => http://localhost:3000
+    [Sec-Fetch-Site] => same-site
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost:3000/
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => welcomebanner_status=dismiss; cookieconsent_status=dismiss; language=en; code-fixes-component-format=LineByLine; continueCode=rlHxhWtVI2C9iOSltzc1T4C8F9fmH7hYteImTrsreuDDhZ1tKJI3BTKQsLBFoZu48hv5tmVIQ5srVFQPSLztZNcvjfN6SbpubetjjI5pCjKsBWiVyfxBUDmuKlhprclRIZwCW7; PHPSESSID=gsnjpoide0c0o603bgemork897
+)
+
+[03-Dec-2024 05:19:37 UTC] Session Token: 64279bb94aace28796054bcf0dfd2d3dd5b8ccfca336d7ff15efbb110141cfe2
+[03-Dec-2024 05:19:37 UTC] Required User Type: 1
+[03-Dec-2024 07:11:13 UTC] Incoming Headers: Array
+(
+    [Host] => localhost:8000
+    [Connection] => keep-alive
+    [Content-Length] => 23
+    [sec-ch-ua-platform] => "Windows"
+    [Authorization] => Bearer 64279bb94aace28796054bcf0dfd2d3dd5b8ccfca336d7ff15efbb110141cfe2
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+    [Accept] => application/json, text/plain, */*
+    [sec-ch-ua] => "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [Content-Type] => application/json
+    [sec-ch-ua-mobile] => ?0
+    [Origin] => http://localhost:3000
+    [Sec-Fetch-Site] => same-site
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost:3000/
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => welcomebanner_status=dismiss; cookieconsent_status=dismiss; language=en; code-fixes-component-format=LineByLine; continueCode=rlHxhWtVI2C9iOSltzc1T4C8F9fmH7hYteImTrsreuDDhZ1tKJI3BTKQsLBFoZu48hv5tmVIQ5srVFQPSLztZNcvjfN6SbpubetjjI5pCjKsBWiVyfxBUDmuKlhprclRIZwCW7; PHPSESSID=gsnjpoide0c0o603bgemork897
+)
+
+[03-Dec-2024 07:11:13 UTC] Session Token: 64279bb94aace28796054bcf0dfd2d3dd5b8ccfca336d7ff15efbb110141cfe2
+[03-Dec-2024 07:11:13 UTC] Required User Type: 1
+[03-Dec-2024 07:11:33 UTC] Incoming Headers: Array
+(
+    [Host] => localhost:8000
+    [Connection] => keep-alive
+    [Content-Length] => 23
+    [sec-ch-ua-platform] => "Windows"
+    [Authorization] => Bearer 64279bb94aace28796054bcf0dfd2d3dd5b8ccfca336d7ff15efbb110141cfe2
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+    [Accept] => application/json, text/plain, */*
+    [sec-ch-ua] => "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [Content-Type] => application/json
+    [sec-ch-ua-mobile] => ?0
+    [Origin] => http://localhost:3000
+    [Sec-Fetch-Site] => same-site
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost:3000/
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+    [Cookie] => welcomebanner_status=dismiss; cookieconsent_status=dismiss; language=en; code-fixes-component-format=LineByLine; continueCode=rlHxhWtVI2C9iOSltzc1T4C8F9fmH7hYteImTrsreuDDhZ1tKJI3BTKQsLBFoZu48hv5tmVIQ5srVFQPSLztZNcvjfN6SbpubetjjI5pCjKsBWiVyfxBUDmuKlhprclRIZwCW7; PHPSESSID=gsnjpoide0c0o603bgemork897
+)
+
+[03-Dec-2024 07:11:33 UTC] Session Token: 64279bb94aace28796054bcf0dfd2d3dd5b8ccfca336d7ff15efbb110141cfe2
+[03-Dec-2024 07:11:33 UTC] Required User Type: 1

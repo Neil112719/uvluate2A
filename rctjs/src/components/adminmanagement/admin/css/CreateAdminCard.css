@@ -1,0 +1,48 @@
+.create-admin-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f8f9fa;
+    padding: 20px;
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
+  .create-admin-card h3 {
+    margin-bottom: 20px;
+  }
+  
+  .create-admin-card form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .create-admin-card form div {
+    margin-bottom: 10px;
+  }
+  
+  .create-admin-card label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: block;
+  }
+  
+  .create-admin-card input {
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 100%;
+  }
+  
+  .create-admin-card button {
+    padding: 10px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .create-admin-card button:hover {
+    background-color: #0056b3;
+  }
+  

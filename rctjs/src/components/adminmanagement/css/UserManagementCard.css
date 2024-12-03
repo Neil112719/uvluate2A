@@ -1,0 +1,56 @@
+/* Manage Users Card Container */
+.manage-users-card {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    max-width: 800px;
+    margin: 20px auto;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Header */
+  .manage-users-card h2 {
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center;
+  }
+  
+  /* Section Buttons */
+  .section-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .section-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #e9ecef;
+    color: #212529;
+    font-size: 1rem;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .section-button.active {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .section-button:hover {
+    background-color: #0056b3;
+    color: white;
+  }
+  
+  /* Active Component */
+  .active-component {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  

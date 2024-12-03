@@ -1,0 +1,40 @@
+CREATE TABLE `auth` (
+	`id` VARCHAR(50) NOT NULL COLLATE 'utf8mb4_0900_ai_ci',
+	`session_token` VARCHAR(255) NULL DEFAULT NULL COLLATE 'utf8mb4_0900_ai_ci',
+	`otp` INT(10) NULL DEFAULT NULL,
+	`otp_generation` TIMESTAMP NULL DEFAULT NULL,
+	`otp_last_sent` TIMESTAMP NULL DEFAULT NULL,
+	`force_password_change` INT(10) NULL DEFAULT '1',
+	UNIQUE INDEX `id` (`id`) USING BTREE,
+	CONSTRAINT `FK_auth_users` FOREIGN KEY (`id`) REFERENCES `users` (`id`) ON UPDATE NO ACTION ON DELETE CASCADE
+)
+COLLATE='utf8mb4_0900_ai_ci'
+ENGINE=InnoDB
+;
+CREATE TABLE `profiles` (
+	`id` VARCHAR(50) NOT NULL COLLATE 'utf8mb4_0900_ai_ci',
+	`fname` VARCHAR(255) NOT NULL COLLATE 'utf8mb4_0900_ai_ci',
+	`mname` VARCHAR(255) NULL DEFAULT NULL COLLATE 'utf8mb4_0900_ai_ci',
+	`lastname` VARCHAR(255) NOT NULL COLLATE 'utf8mb4_0900_ai_ci',
+	`suffix` VARCHAR(50) NULL DEFAULT NULL COLLATE 'utf8mb4_0900_ai_ci',
+	`email` VARCHAR(50) NOT NULL COLLATE 'utf8mb4_0900_ai_ci',
+	`department` VARCHAR(255) NULL DEFAULT NULL COLLATE 'utf8mb4_0900_ai_ci',
+	`program` VARCHAR(255) NULL DEFAULT NULL COLLATE 'utf8mb4_0900_ai_ci',
+	`section` VARCHAR(255) NULL DEFAULT NULL COLLATE 'utf8mb4_0900_ai_ci',
+	`year_level` TINYINT(3) NULL DEFAULT NULL,
+	UNIQUE INDEX `id` (`id`) USING BTREE,
+	CONSTRAINT `FK_profiles_users` FOREIGN KEY (`id`) REFERENCES `users` (`id`) ON UPDATE NO ACTION ON DELETE CASCADE
+)
+COLLATE='utf8mb4_0900_ai_ci'
+ENGINE=InnoDB
+;
+CREATE TABLE `users` (
+	`id` VARCHAR(50) NOT NULL COLLATE 'utf8mb4_0900_ai_ci',
+	`password` VARCHAR(255) NOT NULL COLLATE 'utf8mb4_0900_ai_ci',
+	`usertype` TINYINT(3) NOT NULL,
+	PRIMARY KEY (`id`) USING BTREE,
+	UNIQUE INDEX `id` (`id`) USING BTREE
+)
+COLLATE='utf8mb4_0900_ai_ci'
+ENGINE=InnoDB
+;
